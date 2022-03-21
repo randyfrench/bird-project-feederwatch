@@ -19,6 +19,8 @@ Interpretation: Report triggered a flag by the automated system and was reviewed
 Valid = 0; Reviewed = 0
 Interpretation: Report triggered a flag by the automated system and awaits the review process"
 
+The DATA DICTIONARY - Need to format it correctly to be readable.
+
 *** Data Dictionary ***
 List of variables provided in Project FeederWatch database. 				
 *Asterisks indicate the information is stored as multiple fields in the database. 				
