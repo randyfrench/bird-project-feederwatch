@@ -37,7 +37,6 @@ OBS_ID	            observation	assigned	categorical	Unique identifier for each o
 MONTH	            checklist	participant	date	    Month of 1st day of two-day observation period
 DAY	                checklist	participant	date	    Day of 1st day of two-day observation period
 YEAR	            checklist	participant	date	    Year of 1st day of two-day observation period
-PROJ_PERIOD_ID	    season	    assigned	categorical	Calendar year of end of FeederWatch season
 SPECIES_CODE	    observation	participant	categorical	Bird species observed, stored as 6-letter species codes
 HOW_MANY	        observation	participant	continuous	Maximum number of individuals seen at one time during                                                           observation period
 VALID	            observation	assigned	binary	    Validity of each observation based on flagging system
